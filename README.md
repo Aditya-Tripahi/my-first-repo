@@ -2,4 +2,4 @@
 <br>
 this is my first repo on git
 <br>
-author - Aditya tripathi
+author - <h1> Aditya tripathi </h1>
